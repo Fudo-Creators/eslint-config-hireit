@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-hireit",
+  "version": "1.0.0",
+  "description": "ESLint config for the Hire IT code style",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fudo-Creators/eslint-config-hireit.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fudo-Creators/eslint-config-hireit/issues"
+  },
+  "homepage": "https://github.com/Fudo-Creators/eslint-config-hireit#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=7"
+  },
+  "dependencies": {
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-react": "^7.30.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "eslint-plugin-simple-import-sort": "^8.0.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1"
+  },
+  "files": [
+    "vanilla.js",
+    "react.js",
+    "react-typescript.js",
+    "index.js"
+  ]
+}
