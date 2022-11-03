@@ -33,5 +33,8 @@
     "react.js",
     "react-typescript.js",
     "index.js"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
